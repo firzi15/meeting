@@ -1,0 +1,9 @@
+.git
+.dockerignore
+Dockerfile
+docker-compose.yml
+php-bin
+database.sqlite
+.env
+node_modules
+vendor
